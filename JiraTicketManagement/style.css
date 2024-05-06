@@ -9,8 +9,8 @@ body{
 
 .toolbox-cont{
     height: 5rem;
-     background-color: blue; 
-    /* background-color: #4b4b4b; */
+     /* background-color: blue; */
+     background-color: #4b4b4b;
     display: flex;
     align-items: center;
 }
